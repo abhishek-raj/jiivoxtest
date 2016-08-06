@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SocialNetwork()
+comment1.params=n
+comment1.target=void\ insert(java.lang.String)
+comment2.params=
+comment2.target=void\ display()
+comment3.params=n
+comment3.target=void\ createFriends(java.lang.String)
+numComments=4

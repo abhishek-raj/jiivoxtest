@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Person(java.lang.String)
+comment1.params=pp
+comment1.target=void\ insertFriend(Person)
+comment2.params=
+comment2.target=void\ displayFriends()
+numComments=3
